@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//Josue Gilberto Castro Zelaya
+//Gerson Geovanni Guevara Rivas
 
 namespace ejercicios
 {
