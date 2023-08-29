@@ -1,0 +1,10 @@
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\obj\Debug\ExamenParcialPrograI.csproj.AssemblyReference.cache
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\obj\Debug\ExamenParcialPrograI.Form1.resources
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\obj\Debug\ExamenParcialPrograI.Properties.Resources.resources
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\obj\Debug\ExamenParcialPrograI.csproj.GenerateResource.cache
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\obj\Debug\ExamenParcialPrograI.csproj.CoreCompileInputs.cache
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\bin\Debug\ExamenParcialPrograI.exe.config
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\bin\Debug\ExamenParcialPrograI.exe
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\bin\Debug\ExamenParcialPrograI.pdb
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\obj\Debug\ExamenParcialPrograI.exe
+C:\Users\Gerso\source\repos\ExamenParcialPrograI\ExamenParcialPrograI\obj\Debug\ExamenParcialPrograI.pdb
