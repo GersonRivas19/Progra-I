@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parcial_I</string>
+    
+    <string-array name="SpnArea">
+        <item> "Metro Cuadrado" </item>
+        <item> "Vara Cuadrada" </item>
+        <item> "Yarda Cuadrada" </item>
+        <item> "Pie Cuadrado" </item>
+        <item> "Tareas" </item>
+        <item> "Manzana" </item>
+        <item> "Hectarea" </item>
+    </string-array>
+</resources>
